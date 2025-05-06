@@ -8,6 +8,8 @@ from django.conf import settings
 from datetime import date, timedelta
 from quiz import models as QMODEL
 from teacher import models as TMODEL
+from django.shortcuts import render
+from .models import Course, Question
 
 
 #for showing signup/login button for student
@@ -68,14 +70,41 @@ def take_exam_view(request,pk):
 
 @login_required(login_url='studentlogin')
 @user_passes_test(is_student)
-def start_exam_view(request,pk):
-    course=QMODEL.Course.objects.get(id=pk)
-    questions=QMODEL.Question.objects.all().filter(course=course)
-    if request.method=='POST':
-        pass
-    response= render(request,'student/start_exam.html',{'course':course,'questions':questions})
-    response.set_cookie('course_id',course.id)
-    return response
+def start_exam_view(request, pk):
+    # Fetch the course based on the primary key
+    course = QMODEL.Course.objects.get(id=pk)
+    
+    # Filter questions based on the selected course
+    questions = QMODEL.Question.objects.filter(course=course)
+    
+    if request.method == 'GET':
+        # Randomly fetch a limited number of questions for the selected course (e.g., 10)
+        random_questions = questions.order_by('?')[:10]
+        response = render(request, 'student/start_exam.html', {
+            'course': course,
+            'questions': random_questions
+        })
+        # Set a cookie to track the course ID
+        response.set_cookie('course_id', course.id)
+        return response
+
+    elif request.method == 'POST':
+        # Collect and process submitted answers
+        answers = request.POST.getlist('answers')
+        question_ids = request.POST.getlist('question_ids')
+        
+        correct = 0
+        for qid, answer in zip(question_ids, answers):
+            question = QMODEL.Question.objects.get(id=qid)
+            if question.correct_answer == answer:
+                correct += 1
+        
+        # Calculate results and render the result view
+        return render(request, 'view_result.html', {
+            'course': course,
+            'correct': correct,
+            'total': len(question_ids)
+        })
 
 
 @login_required(login_url='studentlogin')

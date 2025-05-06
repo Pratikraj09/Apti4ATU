@@ -1,14 +1,21 @@
+import csv
 from django.shortcuts import render,redirect,reverse
+from requests import request
 from . import forms,models
 from django.db.models import Sum
 from django.contrib.auth.models import Group
-from django.http import HttpResponseRedirect
+from django.http import HttpResponse, HttpResponseRedirect
 from django.contrib.auth.decorators import login_required,user_passes_test
 from django.conf import settings
 from datetime import date, timedelta
 from quiz import models as QMODEL
 from student import models as SMODEL
 from quiz import forms as QFORM
+from django.shortcuts import render
+from django.http import HttpResponse
+from .models import Question
+
+
 
 
 #for showing signup/login button for teacher
@@ -61,15 +68,45 @@ def teacher_exam_view(request):
 @login_required(login_url='teacherlogin')
 @user_passes_test(is_teacher)
 def teacher_add_exam_view(request):
-    courseForm=QFORM.CourseForm()
-    if request.method=='POST':
-        courseForm=QFORM.CourseForm(request.POST)
-        if courseForm.is_valid():        
-            courseForm.save()
-        else:
-            print("form is invalid")
-        return HttpResponseRedirect('/teacher/teacher-view-exam')
-    return render(request,'teacher/teacher_add_exam.html',{'courseForm':courseForm})
+     if request.method == 'POST':
+        # Handle single question addition
+        if 'single' in request.POST:
+            question_text = request.POST['question_text']
+            option_a = request.POST['option_a']
+            option_b = request.POST['option_b']
+            option_c = request.POST['option_c']
+            option_d = request.POST['option_d']
+            correct_answer = request.POST['correct_answer']
+            difficulty_level = request.POST.get('difficulty_level', '')
+
+            QMODEL.Question.objects.create(
+                question_text=question_text,
+                option_a=option_a,
+                option_b=option_b,
+                option_c=option_c,
+                option_d=option_d,
+                correct_answer=correct_answer,
+                difficulty_level=difficulty_level
+            )
+            return HttpResponse('Question added successfully!')
+
+        # Handle bulk upload
+        elif 'bulk' in request.FILES:
+            csv_file = request.FILES['bulk']
+            reader = csv.DictReader(csv_file.read().decode('utf-8').splitlines())
+            for row in reader:
+                QMODEL.Question.objects.create(
+                    question_text=row['question_text'],
+                    option_a=row['option_a'],
+                    option_b=row['option_b'],
+                    option_c=row['option_c'],
+                    option_d=row['option_d'],
+                    correct_answer=row['correct_answer'],
+                    difficulty_level=row.get('difficulty_level', '')
+                )
+            return HttpResponse('Bulk questions uploaded successfully!')
+
+     return render(request, 'teacher_add_question.html')
 
 @login_required(login_url='teacherlogin')
 @user_passes_test(is_teacher)

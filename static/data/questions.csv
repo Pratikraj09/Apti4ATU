@@ -1,0 +1,403 @@
+id,question_text,option_a,option_b,option_c,option_d,correct_answer,difficulty
+1,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+2,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+3,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+4,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+5,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+6,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+7,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+8,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+9,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+10,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+11,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+12,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+13,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+14,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+15,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+16,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+17,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+18,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+19,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+20,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+21,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+22,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+23,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+24,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+25,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+26,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+27,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+28,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+29,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+30,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+31,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+32,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+33,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+34,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+35,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+36,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+37,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+38,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+39,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+40,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+41,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+42,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+43,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+44,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+45,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+46,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+47,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+48,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+49,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+50,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+51,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+52,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+53,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+54,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+55,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+56,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+57,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+58,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+59,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+60,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+61,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+62,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+63,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+64,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+65,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+66,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+67,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+68,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+69,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+70,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+71,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+72,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+73,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+74,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+75,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+76,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+77,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+78,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+79,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+80,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+81,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+82,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+83,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+84,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+85,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+86,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+87,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+88,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+89,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+90,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+91,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+92,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+93,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+94,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+95,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+96,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+97,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+98,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+99,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+100,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+101,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+102,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+103,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+104,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+105,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+106,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+107,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+108,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+109,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+110,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+111,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+112,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+113,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+114,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+115,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+116,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+117,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+118,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+119,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+120,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+121,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+122,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+123,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+124,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+125,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+126,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+127,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+128,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+129,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+130,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+131,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+132,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+133,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+134,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+135,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+136,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+137,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+138,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+139,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+140,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+141,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+142,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+143,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+144,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+145,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+146,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+147,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+148,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+149,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+150,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+151,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+152,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+153,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+154,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+155,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+156,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+157,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+158,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+159,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+160,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+161,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+162,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+163,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+164,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+165,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+166,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+167,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+168,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+169,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+170,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+171,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+172,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+173,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+174,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+175,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+176,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+177,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+178,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+179,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+180,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+181,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+182,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+183,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+184,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+185,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+186,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+187,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+188,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+189,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+190,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+191,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+192,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+193,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+194,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+195,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+196,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+197,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+198,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+199,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+200,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+201,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+202,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+203,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+204,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+205,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+206,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+207,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+208,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+209,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+210,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+211,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+212,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+213,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+214,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+215,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+216,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+217,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+218,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+219,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+220,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+221,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+222,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+223,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+224,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+225,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+226,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+227,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+228,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+229,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+230,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+231,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+232,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+233,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+234,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+235,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+236,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+237,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+238,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+239,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+240,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+241,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+242,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+243,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+244,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+245,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+246,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+247,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+248,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+249,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+250,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+251,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+252,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+253,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+254,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+255,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+256,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+257,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+258,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+259,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+260,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+261,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+262,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+263,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+264,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+265,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+266,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+267,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+268,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+269,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+270,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+271,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+272,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+273,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+274,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+275,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+276,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+277,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+278,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+279,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+280,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+281,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+282,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+283,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+284,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+285,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+286,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+287,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+288,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+289,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+290,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+291,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+292,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+293,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+294,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+295,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+296,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+297,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+298,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+299,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+300,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+301,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+302,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+303,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+304,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+305,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+306,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+307,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+308,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+309,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+310,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+311,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+312,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+313,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+314,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+315,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+316,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+317,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+318,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+319,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+320,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+321,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+322,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+323,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+324,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+325,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+326,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+327,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+328,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+329,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+330,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+331,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+332,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+333,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+334,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+335,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+336,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+337,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+338,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+339,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+340,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+341,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+342,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+343,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+344,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+345,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+346,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+347,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+348,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+349,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+350,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+351,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+352,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+353,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+354,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+355,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+356,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+357,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+358,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+359,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+360,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+361,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+362,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+363,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+364,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+365,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+366,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+367,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+368,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+369,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+370,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+371,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+372,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+373,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+374,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+375,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+376,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+377,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+378,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+379,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+380,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+381,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+382,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+383,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+384,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+385,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+386,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+387,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+388,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+389,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+390,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+391,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+392,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+393,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+394,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+395,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+396,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy
+397,What is the sum of the first 10 natural numbers? (Topic: Numbers),55,45,50,60,55,easy
+398,What is the smallest prime number? (Topic: Numbers),1,2,3,5,2,easy
+399,What is 20% of 150? (Topic: Percentage),30,20,15,25,30,easy
+400,A score of 80 out of 100 is what percentage? (Topic: Percentage),60%,70%,80%,90%,80%,easy
+401,A product costing $100 is sold for $120. What is the profit percentage? (Topic: Profit and Loss),10%,15%,20%,25%,20%,easy
+402,"If a shopkeeper sells an item at 10% loss, what is the selling price of an item costing $50? (Topic: Profit and Loss)",$45,$40,$42,$48,$45,easy

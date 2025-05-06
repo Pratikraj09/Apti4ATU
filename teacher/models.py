@@ -1,5 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
+from quiz.models import Question
+
 
 class Teacher(models.Model):
     user=models.OneToOneField(User,on_delete=models.CASCADE)

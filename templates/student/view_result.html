@@ -1,6 +1,6 @@
 {% extends 'student/studentbase.html' %}
 {% block content %}
-{%load static%}
+{% load static %}
 
 <head>
   <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -21,6 +21,7 @@
     }
   </style>
 </head>
+
 <br><br>
 <div class="container">
   <div class="panel panel-primary">
@@ -30,21 +31,32 @@
     <table class="table table-hover" id="dev-table">
       <thead>
         <tr>
-
           <th>Exam Name</th>
-          
           <th>View Marks</th>
         </tr>
       </thead>
       {% for t in courses %}
       <tr>
-
-        <td> {{t.course_name}}</td>
-        
-        <td><a class="btn btn-danger btn-xs" href="{% url 'check-marks' t.id  %}"><span class="glyphicon glyphicon-eye-open"></span></a></td>
+        <td>{{ t.course_name }}</td>
+        <td><a class="btn btn-danger btn-xs" href="{% url 'check-marks' t.id %}"><span class="glyphicon glyphicon-eye-open"></span></a></td>
       </tr>
       {% endfor %}
     </table>
+  </div>
+</div>
+
+<!-- Results Section -->
+<div class="container mt-5">
+  <div class="panel panel-success">
+    <div class="panel-heading">
+      <h3>Your Results</h3>
+    </div>
+    <div class="panel-body">
+      <p>Correct Answers: {{ correct }}</p>
+      <p>Total Questions: {{ total }}</p>
+      <p>Score: {{ correct|floatformat:2 }}/{{ total }}</p>
+      <a class="btn btn-primary" href="{% url 'dashboard' %}">Back to Dashboard</a>
+    </div>
   </div>
 </div>
 
