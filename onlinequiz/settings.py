@@ -64,9 +64,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ONLINEAPTITUDEDB',
         'USER': 'root',
-        'PASSWORD': '1234567',
+        'PASSWORD': 'XXXXXXX',
         'HOST': 'localhost',  # Use your database host
-        'PORT': '3306',       # Default MySQL port
+        'PORT': 'XXXX',       # Default MySQL port
     }
 }
 
